@@ -1,1 +1,1 @@
-# Atari-Brekout Game
+# Atari-Breakout Game
