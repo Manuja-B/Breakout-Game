@@ -30,7 +30,8 @@ Following are the buttons and its behavior:
 3. Resume – This button is associated with the pause button. By clicking this button, the user can start the game from the point where it was paused.
 4. Replay – By clicking this button the player can watch the entire game till the point it is played to review the progress of this game.
 5. Undo – By clicking this button the player can go back to the previous step of the game. The player can click undo multiple times and repeatedly go back to previous steps.
-Following buttons are added in ###Version2 of the uploaded zip folder
+Following buttons and its functionalities are added in ###Version2 which uploaded as the zip folder
 6. Save - Saves the game played on computer
 7. Load - Loads the latest saved game.
 8. Change Layout- Changes the placement of buttons on the game window.
+(Thus consider Version2 to have all of the above mentioned buttons in the game)
